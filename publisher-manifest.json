@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "a4fbcc4a01f9ea8a640d7f7d",
+  "owner": "cwkfnyqmm",
+  "repo": "page-2a260d8efd7f037ebfff46d1",
+  "title": "小火箭分享",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2a260d8efd7f037ebfff46d1",
+      "a": "小火箭分享",
+      "b": "",
+      "entity": "小火箭分享",
+      "brand": "小火箭分享",
+      "separator": "",
+      "path": "index.html",
+      "hash": "096bfa45f293175526658c2189b587195c663467d40a82a41db1a12540b741b3",
+      "content": {
+        "keyword1": "小火箭分享",
+        "keyword2": "",
+        "primary_entity": "小火箭分享",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "小火箭分享提供优质VPN加速器服务，支持机场订阅和客户端下载，基础版、旗舰版、团队版多种套餐，任您选择。稳定高速，解锁流媒体，保障网络安全。",
+          "AI_DESCRIPTION": "小火箭分享提供优质VPN加速器服务，支持机场订阅和客户端下载，基础版、旗舰版、团队版多种套餐，任您选择。稳定高速，解锁流媒体，保障网络安全。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n\n\n    <header>\n        <div>\n            <h1>小火箭分享</h1>\n            <nav>\n                <ul>\n                    <li><a href=\"#home\">首页</a></li>\n                    <li><a href=\"#plans\">套餐</a></li>\n                    <li><a href=\"#scenarios\">场景</a></li>\n                    <li><a href=\"#steps\">操作</a></li>\n                    <li><a href=\"#faq\">FAQ</a></li>\n                </ul>\n            </nav>\n            <div>\n                <a href=\"#plans\">立即订阅</a>\n                <a href=\"#download\">客户端下载</a>\n            </div>\n        </div>\n    </header>\n    <main>\n        <section id=\"home\">\n            <h2>小火箭分享</h2>\n            <p>稳定高速的VPN加速器，机场订阅与客户端下载服务</p>\n            <div>\n                <a href=\"#plans\">立即订阅</a>\n                <a href=\"#download\">客户端下载</a>\n            </div>\n        </section>\n        <section id=\"intro\">\n            <h2>品牌简介</h2>\n            <p>小火箭分享是专注于网络加速和VPN服务的专业平台。我们提供优质的机场订阅功能和多平台客户端下载，帮助用户实现稳定高速的网络连接。无论您是个人用户还是团队，我们都提供多种套餐选择，满足不同需求。</p>\n        </section>\n        <section id=\"plans\">\n            <h2>套餐对比</h2>\n            <p>根据您的使用场景选择最合适的套餐</p>\n            <div>\n                <div>\n                    <h3>基础版</h3>\n                    <div>¥15/月</div>\n                    <p>按年付仅需 ¥150/年</p>\n                    <ul>\n                        <li>✅ 每月 100GB 极速流量</li>\n                        <li>✅ 支持 3 台设备同时在线</li>\n                        <li>✅ 解锁基础流媒体</li>\n                        <li>✅ 普通线路节点池</li>\n                    </ul>\n                    \n                </div>\n                <div>\n                    <div>推荐</div>\n                    <h3>旗舰版</h3>\n                    <div>¥35/月</div>\n                    <p>按年付仅需 ¥350/年</p>\n                    <ul>\n                        <li>✅ 每月 300GB 极速流量</li>\n                        <li>✅ 支持 5 台设备同时在线</li>\n                        <li>✅ 全节点原生流媒体解锁</li>\n                        <li>✅ IPLC 专线游戏加速优化</li>\n                        <li>✅ 7x24 优先工单支持</li>\n                    </ul>\n                    \n                </div>\n                <div>\n                    <h3>团队版</h3>\n                    <div>¥85/月</div>\n                    <p>按年付仅需 ¥850/年</p>\n                    <ul>\n                        <li>✅ 每月 1000GB 极速流量</li>\n                        <li>✅ 支持 20 台设备同时在线</li>\n                        <li>✅ VIP 专属高带宽节点</li>\n                        <li>✅ 支持企业定制路由</li>\n                        <li>✅ 专属客户经理服务</li>\n                    </ul>\n                    \n                </div>\n            </div>\n        </section>\n        <section id=\"scenarios\">\n            <h2>使用场景</h2>\n            <p>小火箭分享满足您的多种网络需求</p>\n            <div>\n                <div> \n                    <h3>流媒体观看</h3>\n                    <p>支持全节点解锁，畅享Netflix、Disney+ 等平台高清内容。</p>\n                </div>\n                <div> \n                    <h3>游戏加速</h3>\n                    <p>IPLC 专线优化，降低延迟，享受流畅游戏体验。</p>\n                </div>\n                <div> \n                    <h3>企业办公</h3>\n                    <p>支持多设备连接，定制路由，保障网络安全和效率。</p>\n                </div>\n            </div>\n        </section>\n        <section id=\"steps\">\n            <h2>操作说明</h2>\n            <div>\n                <div>\n                    <div>1</div>\n                    <div>\n                        <h3>选择套餐</h3>\n                        <p>访问小火箭分享官网，选择适合您需求的套餐版本。</p>\n                    </div>\n                </div>\n                <div>\n                    <div>2</div>\n                    <div>\n                        <h3>完成订阅</h3>\n                        <p>支付成功后，立即获取您的专属订阅链接。</p>\n                    </div>\n                </div>\n                <div>\n                    <div>3</div>\n                    <div>\n                        <h3>下载客户端</h3>\n                        <p>前往下载页面获取最新版本的客户端程序。</p>\n                    </div>\n                </div>\n                <div>\n                    <div>4</div>\n                    <div>\n                        <h3>连接加速</h3>\n                        <p>导入配置后选择节点，即可享受高速网络加速。</p>\n                    </div>\n                </div>\n            </div>\n        </section>\n        <section id=\"faq\">\n            <h2>常见问题 FAQ</h2>\n            <div>\n                <details>\n                    <summary>小火箭分享是什么？</summary>\n                    <div>小火箭分享是一个专业的VPN加速器平台，提供稳定高速的网络加速服务，支持机场订阅和多平台客户端下载，满足个人和企业用户的多种需求。</div>\n                </details>\n                <details>\n                    <summary>如何订阅小火箭分享？</summary>\n                    <div>登录官网，浏览套餐信息，选择喜欢的版本进行在线支付，支付成功后会立即发送订阅链接到您的邮箱或客户端。</div>\n                </details>\n                <details>\n                    <summary>旗舰版和基础版区别是什么？</summary>\n                    <div>旗舰版提供更高的流量上限、更强的解锁能力和专属加速优化，而基础版适合轻度使用用户。</div>\n                </details>\n                <details>\n                    <summary>客户端如何下载？</summary>\n                    <div>在官网的客户端下载页面可以直接下载适用于Windows、Mac、Android和iOS等平台的客户端，无需额外注册。</div>\n                </details>\n                <details>\n                    <summary>支持哪些平台？</summary>\n                    <div>小火箭分享支持Windows、Mac、Linux、Android、iOS及路由器等多个平台和设备，满足不同使用场景。</div>\n                </details>\n            </div>\n        </section>\n        <section id=\"download\">\n            <h2>客户端下载</h2>\n            <p>立即下载小火箭分享客户端，开启您的VPN加速之旅</p>\n            <a href=\"#\">立即下载客户端</a>\n            <p>支持多平台，安全稳定，随时随地加速上网</p>\n        </section>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n    <footer>\n        <div>\n            <p>© 2024 小火箭分享 所有权利保留</p>\n            <p>友情链接：<a href=\"#\">官网</a> | <a href=\"#\">订阅页面</a></p>\n        </div>\n    </footer>\n\n",
+          "hash": "75d6d0e0e92a9415c8d7692abbf17547a2501284468ad2447185ff838275edb6",
+          "seo": {
+            "title": "小火箭分享 - 机场VPN加速器 客户端下载 官网",
+            "keywords": "小火箭分享, VPN, 机场, 加速器, 客户端下载, 官网",
+            "description": "小火箭分享提供优质VPN加速器服务，支持机场订阅和客户端下载，基础版、旗舰版、团队版多种套餐，任您选择。稳定高速，解锁流媒体，保障网络安全。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "udwbea.cn",
+    "host": "p-367c9ae7f1.udwbea.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "2c6079daa318791bdb2072d40e44cb2e38b6a1c503348fe0778391e0b3ae4eea",
+    "sitemap.xml": "b15bedb73476036d414f46cdf2a0fb041d5e48e661bf89cbd09caf5153dce703",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "8e7eda607ff068ac417726d24c63fb1aa71645186f3784f12441432aef4fd05c",
+    "robots.txt": "7f31d8a194ab0ab985e3c3d7df16cf96662bba5e8f65622cbfdd9872284d1acf",
+    "055a5db8288b21161adf40da5abba2dc.txt": "8d1a641be0972cac729e43ba53eb7239247ca35b7f8c6d090d1113c88a87f718"
+  },
+  "revision": "4fb9ad360f3ee528a3fe4152d9af7dcb0a7ac9514db5b509c937dfead1562c0b"
+}
